@@ -29,8 +29,8 @@ const Header = () => {
           lineHeight: `.10rem`
         }}
       >
-        <SideText>Hello. I'm Alex Raymond</SideText>
-        <Skill>I'm a Full Stack Software Engineer</Skill>
+        <SideText>Hello. I'm Alex Raymond.</SideText>
+        <Skill>I build things for the web.</Skill>
       </div>
     </Heading>
   )

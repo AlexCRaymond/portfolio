@@ -24,7 +24,7 @@ const Menu = () => {
   return (
     <Navbar>
       <NavWrapper>
-        <NavBrand>{data.site.siteMetadata.author}</NavBrand>
+        <NavBrand></NavBrand>
         <Nav>
           <NavItem>
             <ScrollIntoView selector="#about">

@@ -17,14 +17,14 @@ const About = () => {
     <>
       <TextWrapper>
         <Text>
-          Hello, My name is John Doe, and I'm a web design at My company, lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem lorem lorem lorem
+          Hello again! I'm Alex, a full stack software engineer that enjoys 
+          building stuff for the internet.
+          <br>
+          </br>
+          <br>
+          </br>
+          I recently finished a software engineering immersive course in downtown Los Angeles and
+          am currently looking for opportunites to showcase my skills.
         </Text>
       </TextWrapper>
       <SkillWrapper>
